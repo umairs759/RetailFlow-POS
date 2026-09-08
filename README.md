@@ -210,7 +210,7 @@ start index.html
 
 # 2. Settings → Pages → Source → main branch
 
-# 3. Your POS is live at: https://yourusername.github.io/RetailFlow-POS/
+# 3. Your POS is live at: https://umairs759.github.io/RetailFlow-POS/
 
 
 💬 Feedback
