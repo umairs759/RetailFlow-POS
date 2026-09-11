@@ -223,4 +223,4 @@ If you use this in your shop, I want to hear from you:
 
     What feature would make your day easier?
 
-Open an issue or reach out — every suggestion shapes the next version.
+Open an issue or reach out — every suggestion shapes the next version.  
