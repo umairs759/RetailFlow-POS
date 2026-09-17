@@ -114,15 +114,11 @@ No cloud. No tracking. No monthly fee. Your shop's data stays on your shop's dev
 
 | Dashboard | Billing Console |
 |:---:|:---:|
-| ![Dashboard](./screenshots/dashboard.png) | ![Billing](./screenshots/billing.png) |
+| ![Dashboard](./RetailFlow-POS1.png) | ![Billing](./RetailFlow-POS2.png) |
 
-| Khata (Credit Book) | Analytics |
-|:---:|:---:|
-| ![Khata](./screenshots/khata.png) | ![Analytics](./screenshots/analytics.png) |
-
-| Expiry Watch | Shift & Audit |
-|:---:|:---:|
-| ![Expiry](./screenshots/expiry.png) | ![Shift](./screenshots/shift.png) |
+| Khata (Credit Book) |
+|:---:|
+| ![Khata](./RetailFlow-POS3.png) |
 
 </div>
 
