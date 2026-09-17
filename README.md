@@ -320,7 +320,7 @@ open index.html   # macOS
 start index.html  # Windows
 ```
 
-**Your POS is live at:** `https://<your-username>.github.io/RetailFlow-POS/`
+**Your POS is live at:** `https://umairs759.github.io/RetailFlow-POS/`
 
 ---
 
