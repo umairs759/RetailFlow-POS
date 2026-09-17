@@ -309,6 +309,8 @@ Built with love for the shopkeepers who keep our economy running —
 
 ### 🚀 Deploy in 60 Seconds
 
+<div align="center">
+     
 ```bash
 git clone https://github.com/<your-username>/RetailFlow-POS.git
 cd RetailFlow-POS
